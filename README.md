@@ -1,5 +1,4 @@
 # BMI-Calculator
-[Image](screenshots/image1.png =100x100)
 ![](screenshots/image1.png)
 ![](screenshots/image2.png)
 ![](screenshots/image3.png)
